@@ -77,10 +77,6 @@
 
 <a href = "https://www.linkedin.com/in/bu%C4%9Fra-karabudak-210b2b20b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/Bugra_2426"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.facebook.com/mehmetbugra.karabudak/"><svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
-width="50" height="50"
-viewBox="0 0 226 226"
-style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><path d="M0,226v-226h226v226z" fill="none"></path><g fill="#0778e9"><path d="M113,9.04c-57.32264,0 -103.96,46.63284 -103.96,103.96c0,57.32716 46.63736,103.96 103.96,103.96c57.32716,0 103.96,-46.63284 103.96,-103.96c0,-57.32716 -46.63284,-103.96 -103.96,-103.96zM144.64,72.32h-14.8708c-8.75976,0 -12.2492,2.0566 -12.2492,8.16312v14.43688h27.12l-4.52,22.6h-22.6v58.76h-27.12v-58.76h-13.56v-22.6h13.56v-12.53848c0,-19.097 7.62072,-32.66152 29.74612,-32.66152c11.85144,0 24.49388,4.52 24.49388,4.52z"></path></g></g></svg></a>
 <a href = "https://www.youtube.com/channel/UCASbFzh3E64gkUsdkv_V8AQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
