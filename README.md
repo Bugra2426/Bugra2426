@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Buğra</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from Turkey.</h3>
+<h3 align="center">I am a Senior Cybersecurty Researcher.</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -32,15 +32,11 @@
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.pngrepo.com/png/331488/180/mongodb.png" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://www.figma.com/" target="_blank"> <img src="https://camo.githubusercontent.com/ed93c2b000a76ceaad1503e7eb9356591b885227e82a36a005b9d3498b303ba5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667" alt="figma" width="48" height="48"/> </a> 
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-    <a href="https://www.sketch.com/" target="_blank"> <img src="https://camo.githubusercontent.com/1d997cdd55f59eb171ba044aa9fb6f77eef653c6a23fc51a809425fd03a12cd4/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f736b657463686170702f736b657463686170702d69636f6e2e737667" alt="sketch" width="40" height="40"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
     <a href="https://www.php.net/" target="_blank"> <img src="https://www.pngrepo.com/png/303208/180/php-1-logo.png"alt="php" width="48" height="48"/> </a> 
     <a href="https://golang.org/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/go-77-1175166.png"alt="go" width="48" height="48"/> </a> 
     <a href="https://swift.org/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/swift-21-1175088.png"alt="Swift" width="48" height="48"/> </a> 
-    <a href="https://www.ruby-lang.org/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/ruby-226055.png"alt="ruby" width="48" height="48"/> </a> 
-    <a href="https://flutter.dev/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/flutter_icon_130936.png"alt="flutter" width="48" height="48"/></a> 
+    <a href="https://www.ruby-lang.org/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/ruby-226055.png"alt="ruby" width="48" height="48"/> </a>  
     <a href="https://docs.microsoft.com/en-us/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/2048px-.NET_Logo.svg.png"alt="dotnet" width="48" height="48"/> </a>  
      <a href="https://www.perl.org/" target="_blank"> <img src="https://iconape.com/wp-content/files/ap/89239/svg/perl-1.svg" alt="perl" width="48" height="48"/> </a> 
     
