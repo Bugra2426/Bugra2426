@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **bugra_2006@hotmail.com**
+- 📫 How to reach me ****
 
 - ⚡ Fun fact **I play games and Wathcing movies .**
 
