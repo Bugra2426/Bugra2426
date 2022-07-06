@@ -1,41 +1,8 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
 
 <h1 align="center">Hi I'm Buğra</h1>
-<h3 align="center">I am a Malware Analyst And Reverse Engineer .</h3>
-
-
-## 🙋‍♂️ About Me
-
-- 🔭 I am busy improving myself
-
-- 🌱 I’m currently learning everything
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 📫 How to reach me ****
-
-- ⚡ Fun fact **I play games and Wathcing movies .**
-
-## 🚀 Languages and Tools:
-
-<p align="left">    
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://icons-for-free.com/iconfiles/png/512/install+javascript+js+node+npm+tools+icon-1320165731324625592.png"alt="nodejs" width="48" height="48"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://findicons.com/files/icons/977/rrze/48/database_mysql.png"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.pngrepo.com/png/331488/180/mongodb.png" alt="mongodb" width="48" height="48"/> </a>    
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-    <a href="https://www.php.net/" target="_blank"> <img src="https://www.pngrepo.com/png/303208/180/php-1-logo.png"alt="php" width="48" height="48"/> </a> 
-    <a href="https://golang.org/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/go-77-1175166.png"alt="go" width="48" height="48"/> </a> 
-    <a href="https://swift.org/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/swift-21-1175088.png"alt="Swift" width="48" height="48"/> </a> 
-    <a href="https://www.ruby-lang.org/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/ruby-226055.png"alt="ruby" width="48" height="48"/> </a>  
-    <a href="https://docs.microsoft.com/en-us/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/2048px-.NET_Logo.svg.png"alt="dotnet" width="48" height="48"/> </a>  
-     <a href="https://www.perl.org/" target="_blank"> <img src="https://iconape.com/wp-content/files/ap/89239/svg/perl-1.svg" alt="perl" width="48" height="48"/> </a> 
-    
-</p>
-
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
+<h3 align="center"> I am improving myself on Binary exploitation, Reverse Engineering and DFIR. I know Python, x86 compilation, Bash and a bit of batching. I'm currently learning c/c++ I've been decoding Ctf for about 2 years now, I usually like to solve it on Tryhacme and Hackthebox.</h3>
+<p align="center"></p>
 
 <p align="center">
     <a href="https://github.com/Bugra2426/github-readme-streak-stats">
@@ -43,15 +10,13 @@
     </a>
 </p>
 
-## 📊 My Github Stats
+##  My Github Stats
 
   <br/>
     <a href="https://github.com/Bugra2426/github-readme-stats"><img alt="Bugra2426's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SubhamRaoniar28&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Bugra2426/github-readme-stats"><img alt="Bugra2426's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bugra2426&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
+ 
 <br/>
 <br/>
 
@@ -69,7 +34,7 @@
 
 </p>
 
-## ❤ Views and Followers
+## Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Bugra2426">
 </a>
